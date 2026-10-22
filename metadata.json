@@ -1,0 +1,6 @@
+{
+  "name": "Mail inside - Email Time",
+  "description": "Fast, anonymous temporary disposable email service with customizable expiration up to 7 days, persistent shareable inbox links, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
